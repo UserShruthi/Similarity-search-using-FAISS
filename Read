@@ -1,0 +1,4 @@
+creating virtual environment ---- python -m venv myenv
+Activating the environment ---- .\myenv\Scripts\activate(windows), source myenv/bin/activate(macos)
+Install the required libraries --- pip install faiss-cpu, pip install sentence-transformers, pip install pandas
+
